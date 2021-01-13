@@ -1,0 +1,1 @@
+Ask an input of an array of integers, print the maximum product you can get from any 3 integers from that array.
